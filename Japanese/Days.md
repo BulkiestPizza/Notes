@@ -10,10 +10,10 @@ won't you...?
 day に activity を　verb ましょう
 ***
 Lets...
-Q1: [土曜日](Vocabulary/DaysOfTheWeek.md)に　買いもの　を　しませんか
+Q1: [土曜日](Vocabulary/DaysOfTheWeek.md)に　買いもの　を　[しませんか](Vocabulary/します.md)
 Won't you go shopping?
 
-A1: いいですね。
+A1: [[いいですね]]。
 
 A２はい、買いものを　
 

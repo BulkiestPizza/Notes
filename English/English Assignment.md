@@ -18,8 +18,9 @@ Both of the sources of media being discussed have used characterisation and symb
 
 <br><br>
 
-# Body 1 
-
+Body 1 
+---
+***
 ## Topic Sentence 
 The text Harrison Bergeron by Kurt Vonnegut uses the character of Harrison and his symbolism to display acts of rebellion and the effect that they can have on society, and they aren't entirely positive.
 
@@ -40,7 +41,9 @@ In the text Kurt Vonnegut has used a variety of features with his use of symboli
 <br>
 <br>
 
-# Body 2
+ Body 2
+---
+***
 
 ## Topic Sentence 
 
@@ -62,6 +65,8 @@ The film the Hunger games portrays Katniss as a sympathetic icon and uses her to
 <br>
 <br>
 
-# Conclusion
+ Conclusion
+---
+***
 
 Through the use of Characterisation and symbolism both Kurt Vonnegut and Gary Ross have portrayed the themes of rebellion and conflict in not necessarily positive lights, with Vonnegut portraying Harrison rather Negatively, with him not being exactly a paragon hero. On the other hand Ross has portrayed Katniss extremely positively and being seen as a symbol of great things to come. The dystopian aspect of commenting on our society is very good at exposing the issues widely present in the society in a more digestible way, and allows people to determine what should be done to avert the course of history. 

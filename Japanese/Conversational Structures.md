@@ -2,14 +2,15 @@
 
 ## Different Places 
 
-A: place に 行きませんか。
+A: place に [行きませんか](Vocabulary/行きます.md)。
+
 Wont you go to place?
 
 B: place ですか。いいですね。
 
 Is it place? It is/sounds good
 
-[[いつ]]　行きましょうか。
+[[いつ]]　[行きましょうか](Vocabulary/行きます.md)。
 When shall we go?
 *** 
 A: day1 わ　どうですか。

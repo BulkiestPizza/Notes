@@ -6,7 +6,8 @@ A: place に [行きませんか](Vocabulary/行きます.md)。
 
 Wont you go to place?
 
-B: place ですか。いいですね。
+B: place ですか。[[いいですね]]。
+
 
 Is it place? It is/sounds good
 

@@ -12,11 +12,11 @@ Is it place? It is/sounds good
 
 [[いつ]]　[行きましょうか](Vocabulary/行きます.md)。
 When shall we go?
-*** 
-A: day1 わ　どうですか。
+
+A: day1 わ　[[どうですか]]。
 How about day1?
 
-B:  Day 1 ですか。day1は　ちょっと
+B:  Day 1 ですか。day1は　[[ちょっと]]
 Is it day1? day 1 is/showing hesitation
 <br>
 ***

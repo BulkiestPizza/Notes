@@ -13,14 +13,14 @@ Is it place? It is/sounds good
 [[いつ]]　[行きましょうか](Vocabulary/行きます.md)。
 When shall we go?
 
-A: day1 わ　[[どうですか]]。
+A: [day](Vocabulary/DaysOfTheWeek.md)1 わ　[[どうですか]]。
 How about day1?
 
-B:  Day 1 ですか。day1は　[[ちょっと]]
-Is it day1? day 1 is/showing hesitation
+B:  [day](Vocabulary/DaysOfTheWeek.md) 1 ですか。day1は　[[ちょっと]]
+Is it day1? [day](Vocabulary/DaysOfTheWeek.md) 1 is/showing hesitation
 <br>
 ***
-A: じゃあ、day2　は　（どうですか）？
-Well how about day2?
+A: じゃあ、day 2　は　（どうですか）？
+Well how about [day](Vocabulary/DaysOfTheWeek.md) 2?
 
 

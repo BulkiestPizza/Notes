@@ -14,7 +14,7 @@ Is it place? It is/sounds good
 [[いつ]]　[行きましょうか](Vocabulary/行きます.md)。
 When shall we go?
 
-A: [day](Vocabulary/DaysOfTheWeek.md)1 わ　[[どうですか]]。
+A: [day](Vocabulary/DaysOfTheWeek.md)1 は　[[どうですか]]。
 How about day1?
 
 B:  [day](Vocabulary/DaysOfTheWeek.md) 1 ですか。day1は　[[ちょっと]]

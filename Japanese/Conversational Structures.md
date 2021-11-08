@@ -23,5 +23,3 @@ Is it day1? [day](Vocabulary/DaysOfTheWeek.md) 1 is/showing hesitation
 ***
 A: じゃあ、day 2　は　（どうですか）？
 Well how about [day](Vocabulary/DaysOfTheWeek.md) 2?
-
-

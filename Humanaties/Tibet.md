@@ -9,7 +9,7 @@
 5. Lhasa
 6. Xigase, Qamdo, Lhasa, Nagqu, Shannan, Nyingchi, Ngari
 
-Thibet is located in China. Its population is 3.5 million, its flag is the snow lion flag and it is blue, red. yellow and white. The language spoken is Tibetan. The capital city is Lhasa, Tibet is made up of seven prefectures, Xigase, Qamdo, Lhasa, Nagqu, Shannan, Nyingchi, Ngari.
+Tibet is located in China. Its population is 3.5 million, its flag is the snow lion flag and it is blue, red. yellow and white. The language spoken is Tibetan. The capital city is Lhasa, Tibet is made up of seven prefectures, Xigase, Qamdo, Lhasa, Nagqu, Shannan, Nyingchi, Ngari.
 
 
 

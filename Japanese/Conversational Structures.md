@@ -19,7 +19,8 @@ How about day1?
 
 B:  [day](Vocabulary/DaysOfTheWeek.md) 1 ですか。day1は　[[ちょっと]]
 Is it day1? [day](Vocabulary/DaysOfTheWeek.md) 1 is/showing hesitation
-<br>
-***
+
 A: じゃあ、day 2　は　（どうですか）？
 Well how about [day](Vocabulary/DaysOfTheWeek.md) 2?
+ええ。[いいですよ](いいですね)。。何時に[行きましょうか](Vocabulary/行きます.md)。
+Yes, it is good. What time shall we go?

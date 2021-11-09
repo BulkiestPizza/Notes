@@ -5,3 +5,4 @@ Adjectives Megathread
 [[からい]]
 [[ふしぎ]]
 [[パリパリ]]
+[[ご当地]]

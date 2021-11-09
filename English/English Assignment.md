@@ -1,20 +1,32 @@
+# English Assignment
+<br>
+<br>
+
+
+**// Reword Casual language**
+
+Introduction
+---
+***
+
+
 
 ## Context Sentence 
 
-Dystopian fiction is a staple of modern writing, they are often designed to reflect problems and issues present in our society and extend them to the absolute worst case scenario. It has been exploding in recent years, it was originally inspired by the tensions of WW2 and the cold war that followed by commenting of the governments of the time, namely the USSR in Russia and the Nazi party in Germany, and they originally had no heroes and the world didn't usually change but modern dystopia's have allowed the development of heroes the world can improve and change. 
+Dystopian fiction is a reflection of society, and is often a product of the time that it was written. They have developed from depressing statements about horrible governments with no hope for change into modern dystopias which allow the development of the society and portray its ability to change. 
 
-## Introduce Your Texts
+<!-- Dystopian fiction is a staple of modern writing, they are often designed to reflect problems and issues present in our society and extend them to the absolute worst case scenario. It has been exploding in recent years, it was originally inspired by the tensions of WW2 and the cold war that followed by commenting of the governments of the time, namely the USSR in Russia and the Nazi party in Germany, they originally contained no heroes and the world didn't usually change. However, modern dystopian fiction have allowed the development of heroes. Along with the world being able to improve and change. **// Reduce length** -->
 
-The film being talked about is "The Hunger Games" Directed by Gary Ross, and the text is "Harrison Bergeron" by Kurt Vonnegut. 
+The dystopian fiction being discussed is one film and one text. The Hunger Games, directed by Gary Ross, and Harrison Bergeron, written by Kurt Vonnegut.   
 
 
 ## Thesis
 
-Through the Influential use of characterisation both the text and the film explore acts of rebellion and conflict, positioning  the reader to believe that acts of rebellion and the conflict that stems from them aren't necessarily purely positive events, and can lead to social instability and worse punishment then before. 
+Through the Influential use of characterisation both the text and the film explore acts of rebellion and conflict, positioning the reader to believe that acts of rebellion and the conflict that stems from them aren't necessarily purely positive events, and can lead to social instability and worse punishment then before. **// Condense** paragraph 
 
 ## Arguments
 
-Both of the sources of media being discussed have used characterisation and symbolism, along with various other aesthetic features to convey their 
+Both of the sources of media being discussed have used characterisation and symbolism, along with various other aesthetic features to convey their **// Finish**
 
 <br><br>
 
@@ -22,21 +34,21 @@ Body 1
 ---
 ***
 ## Topic Sentence 
-The text Harrison Bergeron by Kurt Vonnegut uses the character of Harrison and his symbolism to display acts of rebellion and the effect that they can have on society, and they aren't entirely positive.
+The text Harrison Bergeron by Kurt Vonnegut uses the character of Harrison and his symbolism to display acts of rebellion and the effect that they can have on society, and they aren't entirely positive. **// reword, negative effect on society**
 
 
 ## Elaboration
-Harrison displays everything that the society in the story is against, with him being a genius and extremely strong in a society that is actively trying to hamper development of individuality. He represents the inert desires of people's egos and their desires to be remembered after death. He may have clear symbolism but his character is what makes it work, with him being a petulant child who believes that he is the greatest man to ever live, showing what many peoples desires to rebel, even if they are not aware that they want to because of the oppressive control that the government has on their minds. 
+Harrison displays everything that the society in the story is against, with him being a genius and extremely strong in a society that is actively trying to hamper development of individuality. He represents the inert desires of people's egos and their desires to be remembered after death. He may have clear symbolism but his character is what makes it work, with him being a petulant child who believes that he is the greatest man to ever live, showing what many peoples desires to rebel, even if they are not aware that they want to because of the oppressive control that the government has on their minds. **// Remove empty statements**
 
 
 ## Evidence
 Kurt Vonnegut uses this quote in Harrisons opening speech "He stamped his foot and the studio shook" 
 
 ## Explanation
-The use of the immature action of stamping his foot like a child proves his character is prone to emotional instability and that it can easily be a stand in for the desperation of the human mind when subjected under unknown circumstances. The book also goes out of its way to show that Harrison's rebellion was practically pointless and didn't inspire change in the way that the country functions. This is because the people perceive the handicaps as good things, meant to make society better, instead his act of rebellion has made the society worse because it can be inferred from the conversations with George and Hazel that george believes that the handicaps are only fair, because without them society would be chaos, and the rebellion of Harrison has proved in the eyes of the public that un-handicapped people are dangerous and cannot be trusted.
+The use of the immature action of stamping his foot like a child proves his character is prone to emotional instability and that it can easily be a stand in for the desperation of the human mind when subjected under unknown circumstances. The book also goes out of its way to show that Harrison's rebellion was practically pointless and didn't inspire change in the way that the country functions. This is because the people perceive the handicaps as good things, meant to make society better, instead his act of rebellion has made the society worse because it can be inferred from the conversations with George and Hazel that george believes that the handicaps are only fair, because without them society would be chaos, and the rebellion of Harrison has proved in the eyes of the public that un-handicapped people are dangerous and cannot be trusted. **// Remove tangents // Use different language // Talk about symbolism or an aesthetic about representation of harrison // what is Vonnegut suggesting about harrisons rebellion and how he fails // What is Vonneguts feelings about rebellions**  
 
 ## Linking
-In the text Kurt Vonnegut has used a variety of features with his use of symbolism and characterisation in order to show the rebellious acts effects on society and how they can be potentially misconstrued into helping the thing that they were rebelling against. 
+In the text Kurt Vonnegut has used a variety of features with his use of symbolism and characterisation in order to show the rebellious acts effects on society and how they can be potentially misconstrued into helping the thing that they were rebelling against. // too wordy 
 
 <br>
 <br>

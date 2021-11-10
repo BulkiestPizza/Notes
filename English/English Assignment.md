@@ -22,7 +22,9 @@ The dystopian fiction being discussed is one film and one text. The Hunger Games
 
 ## Thesis
 
-Through the Influential use of characterisation both the text and the film explore acts of rebellion and conflict, positioning the reader to believe that acts of rebellion and the conflict that stems from them aren't necessarily purely positive events, and can lead to social instability and worse punishment then before. **// Condense** paragraph 
+
+
+<!-- Through the Influential use of characterisation both the text and the film explore acts of rebellion and conflict, positioning the reader to believe that acts of rebellion and the conflict that stems from them aren't necessarily purely positive events, and can lead to social instability and worse punishment then before. **// Condense** paragraph  -->
 
 ## Arguments
 

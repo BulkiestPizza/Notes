@@ -3,74 +3,40 @@
 <br>
 
 
-**// Reword Casual language**
 
 Introduction
 ---
 ***
-
-
-
-## Context Sentence 
-
-Dystopian fiction is a reflection of society, and is often a product of the time that it was written. They have developed from depressing statements about horrible governments with no hope for change into modern dystopias which allow the development of the society and portray its ability to change. 
-
-<!-- Dystopian fiction is a staple of modern writing, they are often designed to reflect problems and issues present in our society and extend them to the absolute worst case scenario. It has been exploding in recent years, it was originally inspired by the tensions of WW2 and the cold war that followed by commenting of the governments of the time, namely the USSR in Russia and the Nazi party in Germany, they originally contained no heroes and the world didn't usually change. However, modern dystopian fiction have allowed the development of heroes. Along with the world being able to improve and change. **// Reduce length** -->
-
-The dystopian fiction being discussed is one film and one text. The Hunger Games, directed by Gary Ross, and Harrison Bergeron, written by Kurt Vonnegut.   
-
-
-## Thesis
-
-
-
-<!-- Through the Influential use of characterisation both the text and the film explore acts of rebellion and conflict, positioning the reader to believe that acts of rebellion and the conflict that stems from them aren't necessarily purely positive events, and can lead to social instability and worse punishment then before. **// Condense** paragraph  -->
-
-## Arguments
-
-Both of the sources of media being discussed have used characterisation and symbolism, along with various other aesthetic features to convey their **// Finish**
+Dystopian fiction is a reflection of society, and is often a product of the time that it was written. They have developed from depressing statements about horrible governments with no hope for change into modern dystopias which allow the development of the society and portray its ability to change. They have become popular in modern society because it makes people think of interesting issues, but allows them to take a step back and view it through a fictional lens. The dystopian fiction being discussed is one film and one text. The Hunger Games, directed by Gary Ross, and *Harrison Bergeron*, written by Kurt Vonnegut. Through the use of Characterisation both of the selected media have explored acts of rebellion and conflict. They both position the reader to percicve the rebellious acts against the current governemnt, or society, as positive things. However, they both explore the impaces of rebellious actions and how they can be misconstrued by a government, or poor rebellious icons in order to turn people against them. Both of the sources of media being discussed have used characterisation and symbolism, along with various other aesthetic features to convey their points of view, Kurt has tried to convice people that Harrisons rebelion was doomed to fail because of his selfish nature, and Ross has shown the impact that the Capitol has on its citizens and how Katniss has unkowningly caused a disaster with her actions. 
 
 <br><br>
 
 Body 1 
 ---
 ***
-## Topic Sentence 
-The text Harrison Bergeron by Kurt Vonnegut uses the character of Harrison and his symbolism to display acts of rebellion and the effect that they can have on society, and they aren't entirely positive. **// reword, negative effect on society**
-
-
-## Elaboration
-Harrison displays everything that the society in the story is against, with him being a genius and extremely strong in a society that is actively trying to hamper development of individuality. He represents the inert desires of people's egos and their desires to be remembered after death. He may have clear symbolism but his character is what makes it work, with him being a petulant child who believes that he is the greatest man to ever live, showing what many peoples desires to rebel, even if they are not aware that they want to because of the oppressive control that the government has on their minds. **// Remove empty statements**
-
-
-## Evidence
-Kurt Vonnegut uses this quote in Harrisons opening speech "He stamped his foot and the studio shook" 
-
-## Explanation
-The use of the immature action of stamping his foot like a child proves his character is prone to emotional instability and that it can easily be a stand in for the desperation of the human mind when subjected under unknown circumstances. The book also goes out of its way to show that Harrison's rebellion was practically pointless and didn't inspire change in the way that the country functions. This is because the people perceive the handicaps as good things, meant to make society better, instead his act of rebellion has made the society worse because it can be inferred from the conversations with George and Hazel that george believes that the handicaps are only fair, because without them society would be chaos, and the rebellion of Harrison has proved in the eyes of the public that un-handicapped people are dangerous and cannot be trusted. **// Remove tangents // Use different language // Talk about symbolism or an aesthetic about representation of harrison // what is Vonnegut suggesting about harrisons rebellion and how he fails // What is Vonneguts feelings about rebellions**  
-
-## Linking
-In the text Kurt Vonnegut has used a variety of features with his use of symbolism and characterisation in order to show the rebellious acts effects on society and how they can be potentially misconstrued into helping the thing that they were rebelling against. // too wordy 
+The text *Harrison Bergeron*, by Kurt Vonnegut, uses the character of Harrison and his symbolism to display acts of rebellion, and how he characterises Harrison in order to explain that Harrisons actions and beliefs causes his rebellion to fail. Harrison represents everything that the governemnt has convinced the population that un-handicapped are. He is both a genius and an athlete, however, beacuse he is both selfish and power hungry Vonnegut casued him to fail, becasue he is trying to portray that not all rebellions are lead by good intentions. Kurt Vonnegut portrays this in this passage "He stamped his foot and the studio shook" Vonnegut uses this immature action to exemplify Harrison's character, as it represents him in a similar vein to the greek gods, widely portrayed as overgrown, very powerful children. Vonnegut's use of characterisation and symbolism positions the audience to view Harrison as unfit to rule and could potentially be even worse than the current governemnt. Vonnegut is potentially allluding to the Russian Revolution, which overthrew the government and replaced it with a communist dictatorship, which assists Vonnegut's beliefs that rebellions are negative occurences and cause more suffering than the previous government that they overthrew. The use of characterisation and symbolism to enforce Vonneguts negative views on rebellion. 
 
 <br>
 <br>
-
  Body 2
 ---
 ***
 
 ## Topic Sentence 
 
-In the film The Hunger Games ,directed by Gary Ross, the main character, Katniss Everdeen, through her characterisation is used as a symbol for the oppression of the Capitol and as a rebellious icon.
+In the film the Hunger Games, directed by Gary Ross, the character of Katniss Everdeen is used as a symbol for the opression of the Capitol and as a rebellious icon. 
+
+
+<!-- In the film The Hunger Games ,directed by Gary Ross, the main character, Katniss Everdeen, through her characterisation is used as a symbol for the oppression of the Capitol and as a rebellious icon. -->
 
 ## Elaboration 
-Katniss is used as a rebellious icon and her character is a symbol of independence and defiance because of her acts in even the very early scenes of the movie, and while in this movie no outright rebellion is seen, unlike the later films, she still has many minor rebellions that infuriate the Capitol. She represents the desire of people to make their own decisions and be prosperous, in sharp contrast to Harrison, who mainly represents Neutral-Negative emotions such as pride.
+<!-- Katniss is used as a rebellious icon and her character is a symbol of independence and defiance because of her acts in even the very early scenes of the movie, and while in this movie no outright rebellion is seen, unlike the later films, she still has many minor rebellions that infuriate the Capitol. She represents the desire of people to make their own decisions and be prosperous, in sharp contrast to Harrison, who mainly represents Neutral-Negative emotions such as pride. -->
 
 ## Evidence 
-Ross uses the scene of Rue's Death, which contains not a shred of dialogue but is impactful nonetheless, an excerpt from the book which this scene is based on reads "I decorate her body in the flowers, covering the ugly wound. Wreathing her face. Weaving her hair with bright colours...She could really be asleep in that meadow after all."
+Ross uses the scene of Rue's Death, which contains not a shred of dialogue but is impactful nonetheless, an excerpt from the book which this scene is based on reads "I decorate her body in the flowers, covering the ugly wound. Wreathing her face. Weaving her hair with bright colours...She could really be asleep in that meadow after all."//Book Evidence Bad // Use symbolism flowers and // what do the flowers represent // how does this position the audience to view katniss 
 
 ## Explanation
-This excerpt shows how sympathetic Ross makes Katniss with her being shown to covering her body in flowers, which makes all the more impact when in the film immediately after district 11 erupts into rebellion, using Katniss's two finger salute as a symbol for rebellion. This helps to symbolise Katniss as the symbol of the rebellion and helps prove her characteristics as being more sympathetic than that of Harrison with her showing kindness and selfless to someone, potentially risking her life by wasting time commemorating Rue, and at the same time causing an uproar in the Capitol because her actions have caused rebellion in the districts. 
+This excerpt shows how sympathetic Ross makes Katniss with her being shown to covering her body in flowers, which makes all the more impact when in the film immediately after district 11 erupts into rebellion, using Katniss's two finger salute as a symbol for rebellion. This helps to symbolise Katniss as the symbol of the rebellion and helps prove her characteristics as being more sympathetic than that of Harrison with her showing kindness and selfless to someone, potentially risking her life by wasting time commemorating Rue, and at the same time causing an uproar in the Capitol because her actions have caused rebellion in the districts. // Work on scentence structure 
 
 ## Linking Sentence 
 

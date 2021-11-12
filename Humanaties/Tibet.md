@@ -13,4 +13,13 @@ Tibet is located in China. Its population is 3.5 million, its flag is the snow l
 
 
 
+# Investigating the Tibetan railroad.
+LI: to further investigate the tibetan railroad 
+
+| Environmental features of tibet    | Facts about the train      | How the railway was made   | Issues they faced constructing the railway | Issues people experience 
+|-------------- | -------------- | -------------- | --------------| ---------|
+| Item1    | Item1     | Item1     | | | | 
+ 
+
+
 

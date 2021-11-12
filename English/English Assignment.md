@@ -9,7 +9,6 @@ Introduction
 ***
 
 Dystopian fiction is a reflection of society, and is often a product of the time that it was written. They have developed from depressing statements about horrible governments with no hope for change into modern dystopias which allow the development of the society and portray its ability to change. They have become popular in modern society because it makes people think of interesting issues, but allows them to take a step back and view it through a fictional lens. The dystopian fiction being discussed is one film and one text. The Hunger Games, directed by Gary Ross, and *Harrison Bergeron*, written by Kurt Vonnegut. Through the use of Characterisation both of the selected media have explored acts of rebellion and conflict. They both position the reader to percicve the rebellious acts against the current governemnt, or society, as positive things. However, they both explore the impaces of rebellious actions and how they can be misconstrued by a government, or poor rebellious icons in order to turn people against them. Both of the sources of media being discussed have used characterisation and symbolism, along with various other aesthetic features to convey their points of view, Kurt has tried to convice people that Harrisons rebelion was doomed to fail because of his selfish nature, and Ross has shown the impact that the Capitol has on its citizens and how Katniss has unkowningly caused a disaster with her actions. 
-
 <br><br>
 
 Body 1 

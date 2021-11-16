@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Days.md",
-            "mode": "preview"
+            "file": "Japanese/Particles/は( わ）.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "86681ad452af75fe",
+        "id": "01a8038fbba82640",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Words and Phrases/見ます.md",
-            "mode": "source"
+            "file": "Japanese/Particles/は( わ）.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Days.md",
+                "file": "Japanese/Particles/は( わ）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285
   },
   "active": "8ae196b0d087a0a9",
   "lastOpenFiles": [
+    "Japanese/Particles/は( わ）.md",
+    "Japanese/Words and Phrases/見ます.md",
     "Japanese/Days.md",
     "Japanese/Days Of The Week & Time Vocab.md",
     "Japanese/Conversational Structures.md",
     "Japanese/Conjugations of  ますverb.md",
-    "Japanese/Words and Phrases/見ます.md",
     "見ています.md",
     "Japanese/Words and Phrases/ぜひ.md",
     "Japanese/Words and Phrases/ジェットコースター.md",
-    "English/Tips.md",
-    "English/English Assignment.md"
+    "English/Tips.md"
   ]
 }

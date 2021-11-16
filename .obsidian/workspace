@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#noun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,9 +89,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "bebbf3bd0ae4d055",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -100,14 +108,14 @@
   "active": "8ae196b0d087a0a9",
   "lastOpenFiles": [
     "Japanese/Conjugations of  ますverb.md",
-    "Japanese/Scentence Structures.md",
-    "Japanese/Grammar.md",
+    "Japanese/Words and Phrases/ジェットコースター.md",
+    "English/Tips.md",
+    "English/English Assignment.md",
     "Japanese/Days.md",
-    "Japanese/Conversational Structures.md",
-    "Japanese/Adjectives.md",
     "Japanese/DaysOfTheWeek & Time Vocab.md",
-    "Japanese/TimeVocab.md",
-    "Japanese/Nouns.md",
-    "Japanese/Sentence Structures.md"
+    "Japanese/Conversational Structures.md",
+    "Japanese/Words and Phrases/デイズニーシー.md",
+    "Japanese/Words and Phrases/いいですね.md",
+    "Japanese/Words and Phrases/ぶらぶらしています.md"
   ]
 }

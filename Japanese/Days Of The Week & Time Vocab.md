@@ -1,7 +1,7 @@
 16-11-2021 at 20:41
 
 ---
-# DaysOfTheWeek & Time Vocab
+# Days Of The Week & Time Vocab
 ---
 
 
@@ -13,9 +13,9 @@ Days of the week and similar Vocabulary
 | 月曜日 | Monday |
 | 火曜日　| Tuesday |
 | 水曜日   | Wednesday|
-| 木曜日　| thursday |
-| 金曜日　| friday |
-| 土曜日　| saturday |
+| 木曜日　| Thursday |
+| 金曜日　| Friday |
+| 土曜日　| Saturday |
 
 ## Time Vocab 
 |     |       Previous    | Next    | Current | 

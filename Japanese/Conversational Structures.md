@@ -1,4 +1,4 @@
-#Japanese #Lesson 
+#Lesson 
 16-11-2021 at 20:41
 
 ---

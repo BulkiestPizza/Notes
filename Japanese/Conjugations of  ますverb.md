@@ -1,4 +1,4 @@
-#Lesson #Japanese 
+#Lesson 
 # Conjugations of  ますverb
 
 Verb(てform) います = verb ing 

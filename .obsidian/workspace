@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Particles/は( わ）.md",
+            "file": "Japanese/Conjugations of  ますverb.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "664424a147f7939d"
       },
       {
-        "id": "01a8038fbba82640",
+        "id": "e14bf567ff81b4f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Particles/は( わ）.md",
+            "file": "Japanese/Conjugations of  ますverb.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "664424a147f7939d"
       }
     ],
     "direction": "vertical"
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Verb",
+                "query": "tag:#Japanese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Particles/は( わ）.md",
+                "file": "Japanese/Conjugations of  ますverb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +121,15 @@
   },
   "active": "8ae196b0d087a0a9",
   "lastOpenFiles": [
-    "Japanese/Particles/は( わ）.md",
+    "Japanese/Conjugations of  ますverb.md",
+    "Japanese/Particles/の.md",
+    "Japanese/Particles/は.md",
     "Japanese/Words and Phrases/見ます.md",
     "Japanese/Days.md",
     "Japanese/Days Of The Week & Time Vocab.md",
     "Japanese/Conversational Structures.md",
-    "Japanese/Conjugations of  ますverb.md",
     "見ています.md",
     "Japanese/Words and Phrases/ぜひ.md",
-    "Japanese/Words and Phrases/ジェットコースター.md",
-    "English/Tips.md"
+    "Japanese/Words and Phrases/ジェットコースター.md"
   ]
 }

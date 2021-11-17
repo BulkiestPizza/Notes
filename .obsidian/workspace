@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ffac2d98fe439772",
+        "id": "61bda9c17ca26efb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -98,16 +98,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 285
   },
-  "active": "ffac2d98fe439772",
+  "active": "61bda9c17ca26efb",
   "lastOpenFiles": [
     "English/English Assignment.md",
+    "Untitled.md",
     "Japanese/Days.md",
     "Japanese/Words and Phrases/ふくをいる.md",
     "Japanese/Words and Phrases/あさごはん.md",
@@ -115,7 +115,6 @@
     "Japanese/Particles/は.md",
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/買い物.md",
-    "Japanese/Words and Phrases/買います.md",
-    "Japanese/Words and Phrases/話.md"
+    "Japanese/Words and Phrases/買います.md"
   ]
 }

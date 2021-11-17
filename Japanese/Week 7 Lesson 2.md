@@ -8,3 +8,15 @@
 
 ## Revision for the test 
 [[曜]](よう) - Day of the week 　
+
+ 
+金曜日にえいがをみませんか
+Wont you watch a movie on friday?
+
+日本語で　話してください
+Speak Japanese Please 
+
+今日ですか。。。今日はちょっと
+Today... today is...
+
+ええ、いいですよ。そうしましょう。

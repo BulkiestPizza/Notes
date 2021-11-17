@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "f54b203f026a3812",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Routine.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English Assignment.md",
+                "file": "Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +116,10 @@
     "direction": "horizontal",
     "width": 285
   },
-  "active": "8ae196b0d087a0a9",
+  "active": "f54b203f026a3812",
   "lastOpenFiles": [
+    "Routine.md",
+    "Japanese/Days Of The Week & Time Vocab.md",
     "English/English Assignment.md",
     "Math/IXL numbers.md",
     "Math/10November.md",
@@ -114,8 +127,6 @@
     "Math/Congruency.md",
     "Japanese/Week 7 Lesson 2.md",
     "Japanese/Conversational Structures.md",
-    "Japanese/Words and Phrases/きもちがわるい.md",
-    "Japanese/Words and Phrases/きもちがいい.md",
-    "Japanese/Days Of The Week & Time Vocab.md"
+    "Japanese/Words and Phrases/きもちがわるい.md"
   ]
 }

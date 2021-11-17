@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Days.md",
-            "mode": "preview"
+            "file": "English/English Assignment.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Days.md",
+                "file": "English/English Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "ffac2d98fe439772",
   "lastOpenFiles": [
+    "English/English Assignment.md",
     "Japanese/Days.md",
     "Japanese/Words and Phrases/ふくをいる.md",
     "Japanese/Words and Phrases/あさごはん.md",
@@ -115,7 +116,6 @@
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/買い物.md",
     "Japanese/Words and Phrases/買います.md",
-    "Japanese/Words and Phrases/話.md",
-    "Japanese/Words and Phrases/また.md"
+    "Japanese/Words and Phrases/話.md"
   ]
 }

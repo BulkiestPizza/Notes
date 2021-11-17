@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Particles/の.md",
-            "mode": "source"
+            "file": "Japanese/Days.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Particles/の.md",
+                "file": "Japanese/Days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "ffac2d98fe439772",
   "lastOpenFiles": [
+    "Japanese/Days.md",
+    "Japanese/Words and Phrases/ふくをいる.md",
+    "Japanese/Words and Phrases/あさごはん.md",
     "Japanese/Particles/の.md",
     "Japanese/Particles/は.md",
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/買い物.md",
     "Japanese/Words and Phrases/買います.md",
     "Japanese/Words and Phrases/話.md",
-    "Japanese/Words and Phrases/また.md",
-    "Japanese/Words and Phrases/ぶらぶらしています.md",
-    "Japanese/Words and Phrases/ふしぎ.md",
-    "Japanese/Words and Phrases/ふくをいる.md"
+    "Japanese/Words and Phrases/また.md"
   ]
 }

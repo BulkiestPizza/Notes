@@ -18,9 +18,10 @@ Days of the week and similar Vocabulary
 | 土曜日　| Saturday |
 
 ## Time Vocab 
-|     |       Previous    | Next    | Current | 
-| --         | --  | -- | -- | 
-| Day    | Item2.1    | Item3.1    | |
-| Year   | Item2.2    | Item3.2    | | 
-| Month   | Item2.3   | Item3.3   |
+|          | Previous　先 | Now　今   | Coming　来    |
+| -------- | ------------ | ---------- | ---------- |
+| Day 日   | きのう       | きょう     | あした     |
+| Week週   | せんしゅう   | こんしゅう | らいしゅう |
+| Month 月 | せんげつ     | ことし     | らいねん   |
+| Year  年 | きょねん     | ことし     | らいねん   |
 

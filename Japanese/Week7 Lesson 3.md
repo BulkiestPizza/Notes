@@ -14,3 +14,8 @@ subject は　someone(with)と　nounでactivity を verb.
 - 父はWiiでバスケッボールをしている
 4. Dad is talking on the phone 
 - 父はでんわ話している
+
+subjectはsomeoneとplaceにverb 
+
+5. My older sister is going to the city 
+おねさんはまちに行ってる

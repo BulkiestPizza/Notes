@@ -18,3 +18,9 @@ $$36,000,000/9,984,670$$
 $$=3.61/km^2$$
 
 Therefore Canada's population density is $3.61km^2$
+
+Australia: 25,704,340
+Bangladesh: 166938851
+Brazil: 214631543
+China, 1411778724
+Nigeria: 213117109

@@ -10,3 +10,11 @@ SC: By the end of this lesson, students will be able to:
 
 ## What is population density 
 Population density is a figure that describes how many people live in a specific region. In general, it provides us with the average amount of people living per square kilometre in a region or country 
+
+ $$Formula$$
+$$P/A$$ 
+For example: 
+$$36,000,000/9,984,670$$
+$$=3.61/km^2$$
+
+Therefore Canada's population density is $3.61km^2$

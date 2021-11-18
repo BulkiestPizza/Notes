@@ -1,8 +1,14 @@
+18-11-2021 at 12:28
+#Tibet 
+
+---
 # Tibet
+---
+
 
 ## Introduction to Tibet 
 
-1. Tibet is located on the tibetan plateau west? of the gobi desert and is apart of the peoples republic of china
+1. Tibet is located on the Tibetan plateau west? of the gobi desert and is apart of the peoples republic of china
 2. it has a population of 3.5 million
 3. ![](../attachments/1200px-Flag_of_Tibet.svg.png) 
 4. Tibetan and English 
@@ -14,9 +20,9 @@ Tibet is located in China. Its population is 3.5 million, its flag is the snow l
 
 
 # Investigating the Tibetan railroad.
-LI: to further investigate the tibetan railroad 
+LI: to further investigate the Tibetan railroad 
 
-| Environmental features of tibet    | Facts about the train      | How the railway was made   | Issues they faced constructing the railway | Issues people experience 
+| Environmental features of Tibet    | Facts about the train      | How the railway was made   | Issues they faced constructing the railway | Issues people experience 
 |-------------- | -------------- | -------------- | --------------| ---------|
 | Item1    | Item1     | Item1     | | | | 
  

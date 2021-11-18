@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/English Assignment.md",
+            "file": "Humanaties/Population Density.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 241
   },
   "right": {
     "id": "a37de18f86219173",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English Assignment.md",
+                "file": "Humanaties/Population Density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 273
   },
   "active": "61bda9c17ca26efb",
   "lastOpenFiles": [
+    "Humanaties/Population Density.md",
+    "Humanaties/All about maps.md",
+    "Humanaties/choropleth map.md",
+    "Humanaties/Tibet.md",
     "English/English Assignment.md",
     "Untitled.md",
     "Japanese/Days.md",
     "Japanese/Words and Phrases/ふくをいる.md",
     "Japanese/Words and Phrases/あさごはん.md",
-    "Japanese/Particles/の.md",
-    "Japanese/Particles/は.md",
-    "Japanese/Words and Phrases/週.md",
-    "Japanese/Words and Phrases/買い物.md",
-    "Japanese/Words and Phrases/買います.md"
+    "Japanese/Particles/の.md"
   ]
 }

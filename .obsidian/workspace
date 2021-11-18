@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Humanaties/Population Density.md",
+            "file": "Japanese/Week7 Lesson 3.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanaties/Population Density.md",
+                "file": "Japanese/Week7 Lesson 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "61bda9c17ca26efb",
   "lastOpenFiles": [
+    "Japanese/Week7 Lesson 3.md",
+    "Japanese/Week 7 Lesson 2.md",
     "Humanaties/Population Density.md",
     "Humanaties/All about maps.md",
     "Humanaties/choropleth map.md",
@@ -113,8 +115,6 @@
     "English/English Assignment.md",
     "Untitled.md",
     "Japanese/Days.md",
-    "Japanese/Words and Phrases/ふくをいる.md",
-    "Japanese/Words and Phrases/あさごはん.md",
-    "Japanese/Particles/の.md"
+    "Japanese/Words and Phrases/ふくをいる.md"
   ]
 }

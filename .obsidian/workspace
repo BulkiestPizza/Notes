@@ -89,14 +89,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "bebbf3bd0ae4d055",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }

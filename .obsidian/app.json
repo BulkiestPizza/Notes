@@ -4,5 +4,8 @@
   "spellcheck": true,
   "vimMode": true,
   "foldHeading": true,
-  "lineWrap": true
+  "lineWrap": true,
+  "spellcheckDictionary": [
+    "Bergeron"
+  ]
 }

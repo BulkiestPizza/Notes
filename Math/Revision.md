@@ -14,4 +14,6 @@
 
 $BC= DF$
 $EF=AC$
-$\langle $
+$\theta B = \theta D$
+Therefore The triangles are congruent because of RHS 
+

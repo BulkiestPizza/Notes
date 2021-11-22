@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/English Assignment.md",
+            "file": "Humanaties/Exam Revision.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English Assignment.md",
+                "file": "Humanaties/Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "61bda9c17ca26efb",
   "lastOpenFiles": [
+    "Humanaties/Exam Revision.md",
+    "Humanaties/All about maps.md",
     "English/English Assignment.md",
     "English/Feedback.md",
     "Math/Revision.md",
@@ -113,8 +115,6 @@
     "Math/Congruency.md",
     "Math/IXL numbers.md",
     "Math/11.F.md",
-    "Humanaties/Population Density.md",
-    "Japanese/Days Of The Week & Time Vocab.md",
-    "Japanese/Week7 Lesson 3.md"
+    "Humanaties/Population Density.md"
   ]
 }

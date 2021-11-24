@@ -22,7 +22,7 @@ The text *Harrison Bergeron*, by Kurt Vonnegut, uses the character of Harrison a
 ---
 ***
 
-In the film the Hunger Games, directed by Gary Ross, the character of Katniss Everdeen is used as a symbol for the oppression of the Capitol and as a rebellious icon. Katniss has been portrayed as extremely rebellious and cold to people she doesn't know, especially earlier on the movie. However, Gary Ross has used the scene of Rue's death to position the audience to view Katniss in a positive light, with her covering her body in flowers and sending her off with a three finger salute. The flowers, which symbolise the youth and innocence of Rue  
+In the film the Hunger Games, directed by Gary Ross, the character of Katniss Everdeen is used as a symbol for the oppression of the Capitol and as a rebellious icon. Katniss has been portrayed as extremely rebellious and cold to people she doesn't know, especially earlier on the movie. However, Gary Ross has used the scene of Rue's death to position the audience to view Katniss in a positive light, with her covering her body in flowers and sending her off with a three finger salute. The flowers, which symbolise the youth and innocence of Rue, exemplify Katniss' selfless nature  
 
 The flowers are used to symbolise youth and innocence, and how cruel the Hunger Games are to the citizens of the Districts, and the three finger salute shows her respect towards her family and friends, and unfortunately leads into a brutal massacre because of a riot started, incidentally, by Katniss. The use of characterisation and symbolism reinforces Gary Ross's negative views on rebellion, but unlike Vonnegut he portrays the government the cause of the suffering, instead of the rebellious people themselves. 
 

@@ -21,7 +21,7 @@ Every map should have:
 - Street map
 - Terrain map
 - Political map
-- nauticul map
+- nautical map
 - [[choropleth map]]
 - Star map
 - World map

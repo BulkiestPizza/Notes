@@ -1,6 +1,6 @@
 {
   "headerWidth": 32,
-  "leafWidth": null,
+  "leafWidth": 10,
   "leafAutoWidth": true,
   "disabled": false,
   "rotateHeaders": true,

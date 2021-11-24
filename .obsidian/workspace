@@ -100,17 +100,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "f04869cc3a65a953",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

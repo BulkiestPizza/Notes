@@ -31,5 +31,5 @@ In the film the Hunger Games, directed by Gary Ross, the character of Katniss Ev
 ---
 ***
  
-Through the use of Characterisation and symbolism both Kurt Vonnegut and Gary Ross have expressed their views on themes of rebellion and conflict. Kurt has shown his belief that power is an inherently corrupting force, and has tried to exemplify this with Harrison, by showcasing his selfish nature, and just wants to take control of the government. However, in contrast Katniss is selfless and heroic and is shown to be a force for good against the dystopian government. In conclusion the ability for Dystopian fiction to comment on the issues present in our 
+Through the use of Characterisation and symbolism both Kurt Vonnegut and Gary Ross have expressed their views on themes of rebellion and conflict. Kurt has shown his belief that power is an inherently corrupting force, and has tried to exemplify this with Harrison, by showcasing his selfish nature, and just wants to take control of the government. However, in contrast Katniss is selfless and heroic and is shown to be a force for good against the dystopian government. In conclusion the ability for Dystopian fiction to comment on the issues present in our society is extremely popular and it helps to explain these problems when looked at after taking a step back and re-examining. 
 

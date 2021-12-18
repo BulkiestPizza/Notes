@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C Notes/Data Types and Variables.md",
+            "file": "Japanese/Week7 Lesson 3.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Notes/Data Types and Variables.md",
+                "file": "Japanese/Week7 Lesson 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
+    "Japanese/Week7 Lesson 3.md",
+    "Japanese/Particles/は.md",
+    "Japanese/Particles/の.md",
     "C Notes/Data Types and Variables.md",
     "C Notes/Files and Directories Management.md",
     "English/Feedback.md",
     "English/English Assignment.md",
     "conflict-files-obsidian-git.md",
     "Humanaties/All about maps.md",
-    "Humanaties/Population Density.md",
-    "Excalidraw/Drawing 2021-11-18 15.55.56.excalidraw.md",
-    "Japanese/Days Of The Week & Time Vocab.md",
-    "Japanese/Week7 Lesson 3.md"
+    "Humanaties/Population Density.md"
   ]
 }

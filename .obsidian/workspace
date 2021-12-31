@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/Week7 Lesson 3.md",
+            "file": "C Notes/How to compare string with the rest of the strings in aan array.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Week7 Lesson 3.md",
+                "file": "C Notes/How to compare string with the rest of the strings in aan array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
+    "C Notes/How to compare string with the rest of the strings in aan array.md",
+    "C Notes/Data Types and Variables.md",
     "Japanese/Week7 Lesson 3.md",
     "Japanese/Particles/は.md",
     "Japanese/Particles/の.md",
-    "C Notes/Data Types and Variables.md",
     "C Notes/Files and Directories Management.md",
     "English/Feedback.md",
     "English/English Assignment.md",
     "conflict-files-obsidian-git.md",
-    "Humanaties/All about maps.md",
-    "Humanaties/Population Density.md"
+    "Humanaties/All about maps.md"
   ]
 }

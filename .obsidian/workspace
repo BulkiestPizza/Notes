@@ -7,12 +7,8 @@
         "id": "b68102313ac28b1a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programming/Flutter Notes/Navigation.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Flutter Notes/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +95,15 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
+    "Japanese/Conjugations of  ますverb.md",
+    "Japanese/Words and Phrases/ジェラート.md",
+    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
+    "Templates/Template.md",
     "Programming/Flutter Notes/Navigation.md",
     "Japanese/Words and Phrases/あさごはん.md",
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/話.md",
     "Japanese/Words and Phrases/曜.md",
-    "Japanese/Words and Phrases/ゆ.md",
-    "Japanese/Words and Phrases/マッサージ.md",
-    "Japanese/Words and Phrases/また.md",
-    "Japanese/Words and Phrases/ぶらぶらしています.md",
-    "Japanese/Words and Phrases/ふしぎ.md"
+    "Japanese/Words and Phrases/ゆ.md"
   ]
 }

@@ -19,7 +19,7 @@ Push() method adds a Route to a stack of routes managed by Navigator. The Route 
 			onPressed:() {
 				Navigator.pop(context)
 			}
-The context refers, i assume, to the cached route that the user used to get th
+The context refers, i assume, to the cached route that the user used to get to the location 
 
 
 ## References 

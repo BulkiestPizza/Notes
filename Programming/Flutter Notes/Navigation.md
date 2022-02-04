@@ -5,5 +5,6 @@
 ---
 
 # Creating Routes 
-Routes are just widgets that tell the program where to go, and arent explicitly define, instead are just functions for navigator commands 
-#
+Routes are just widgets that tell the program where to go, and arent explicitly defined, instead are just functions for navigator commands 
+
+# Navigator.Push

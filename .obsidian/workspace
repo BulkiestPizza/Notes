@@ -7,8 +7,12 @@
         "id": "b68102313ac28b1a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Flutter Notes/Navigation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#noun#",
+                "query": "https://docs.flutter.dev/cookbook/navigation/navigation-basics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Flutter Notes/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,12 +101,12 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
+    "Programming/Flutter Notes/Navigation.md",
+    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
     "Japanese/Words and Phrases/アメよこ.md",
     "Japanese/Conjugations of  ますverb.md",
     "Japanese/Words and Phrases/ジェラート.md",
-    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
     "Templates/Template.md",
-    "Programming/Flutter Notes/Navigation.md",
     "Japanese/Words and Phrases/あさごはん.md",
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/話.md",

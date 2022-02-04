@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#noun#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +95,7 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
+    "Japanese/Words and Phrases/アメよこ.md",
     "Japanese/Conjugations of  ますverb.md",
     "Japanese/Words and Phrases/ジェラート.md",
     "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
@@ -103,7 +104,6 @@
     "Japanese/Words and Phrases/あさごはん.md",
     "Japanese/Words and Phrases/週.md",
     "Japanese/Words and Phrases/話.md",
-    "Japanese/Words and Phrases/曜.md",
-    "Japanese/Words and Phrases/ゆ.md"
+    "Japanese/Words and Phrases/曜.md"
   ]
 }

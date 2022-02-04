@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C Notes/How to compare string with the rest of the strings in aan array.md",
-            "mode": "source"
+            "file": "Programming/Flutter Notes/Navigation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Notes/How to compare string with the rest of the strings in aan array.md",
+                "file": "Programming/Flutter Notes/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "b68102313ac28b1a",
   "lastOpenFiles": [
-    "C Notes/How to compare string with the rest of the strings in aan array.md",
-    "C Notes/Data Types and Variables.md",
-    "Japanese/Week7 Lesson 3.md",
-    "Japanese/Particles/は.md",
-    "Japanese/Particles/の.md",
-    "C Notes/Files and Directories Management.md",
-    "English/Feedback.md",
-    "English/English Assignment.md",
-    "conflict-files-obsidian-git.md",
-    "Humanaties/All about maps.md"
+    "Programming/Flutter Notes/Navigation.md",
+    "Japanese/Words and Phrases/あさごはん.md",
+    "Japanese/Words and Phrases/週.md",
+    "Japanese/Words and Phrases/話.md",
+    "Japanese/Words and Phrases/曜.md",
+    "Japanese/Words and Phrases/ゆ.md",
+    "Japanese/Words and Phrases/マッサージ.md",
+    "Japanese/Words and Phrases/また.md",
+    "Japanese/Words and Phrases/ぶらぶらしています.md",
+    "Japanese/Words and Phrases/ふしぎ.md"
   ]
 }

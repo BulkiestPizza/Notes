@@ -11,5 +11,8 @@
     "characterisation",
     "characterises",
     "symbolise"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "attachments"
 }

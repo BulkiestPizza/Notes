@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:C Notes",
+      "query": "path:C NotesJapanese",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4525735083971222,
+  "scale": 0.2644650036492837,
   "close": false
 }

@@ -10,7 +10,7 @@
 
 1. Tibet is located on the Tibetan plateau west? of the gobi desert and is apart of the peoples republic of china
 2. it has a population of 3.5 million
-3. ![](../attachments/1200px-Flag_of_Tibet.svg.png) 
+3. ![](1200px-Flag_of_Tibet.svg.png) 
 4. Tibetan and English 
 5. Lhasa
 6. Xigase, Qamdo, Lhasa, Nagqu, Shannan, Nyingchi, Ngari

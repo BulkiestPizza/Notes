@@ -30,7 +30,10 @@ Convert units to kg and M when working with density
     1610kg = m
 4. p = m/V
     8050 = m/0.2
-     
-6.  
- 
- 
+
+## Cylinder Questions
+V = $(pi*8^2)*75$ 
+V = $64pi*75$
+V = $4800mm^3pi$
+
+V = $0.$

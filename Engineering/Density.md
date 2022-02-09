@@ -14,6 +14,11 @@ Convert units to kg and M when working with density
 ## Scientific Notation Questions
 1.
 	a.
-		i. 8.9x10^7
-		
+		i. $8.9*10^7$
+		ii. $1.1*10^10$
+
+## Density Questions
+
+10.  p = m/V 
+	1. 
  

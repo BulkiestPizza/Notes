@@ -31,3 +31,12 @@ $VC = pir^2*h$
 $VS = (4*pir^3)/3$
 $VP = AH/3$
 
+## Volume Questions
+$V = pir^2*h$
+$V = pi0.2^2*h$
+$V = 0.4*0.8$
+$V = 0.32*pi$
+$V = 1m^3$
+5. $V= 0.005^3$
+
+

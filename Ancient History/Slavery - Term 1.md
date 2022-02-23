@@ -16,3 +16,6 @@ Slavery was extensive in the ancient world, almost every great empire used slave
 
 Definition of slavery:
 One human being is legally the property of another can be bought or sold, is not allowed to escape and must work of the owner without any choice involved. 
+
+
+The quote is relevant in appreciation the powerless position of slaves because it is directly informing people of the conditions that the slaves work in. This is seen with the quote directly stating "They can be bought, sold, disciplined and disposed of." This further supports that slaves are treated as property and have little to no rights over their every actions, even after death with the master being able to dispose of the bodies ignoring the w 

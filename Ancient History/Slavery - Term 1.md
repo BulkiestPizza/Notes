@@ -27,4 +27,7 @@ Because of harsh treatments, revolts were common
 Slave responsibilities were to cater to the masters needs
 Masters were expected to feed, water and proved shelter for the slaves. 
 
-These laws perpetrate the disempowerment of slaves because they actively encourage people to return slaves and punish people for trying to free the slaves. This is explained in the laws as one  states that if a barber is to attempt to free the slave they have their hands cut off 
+These laws perpetrate the dis-empowerment of slaves because they actively encourage people to return slaves and punish people for trying to free the slaves. This is explained in the laws as one states that if a barber is to attempt to free the slave they have their hands cut off, and another states that if runaway slaves are found, by anyone, they should be returned for profit and if a slave tries to rebel the master is fully within his rights to cut off his ears.
+
+## Hammurabi Code Teeel
+The Hammurabi code perpetrates the disempowertment of slaves because 

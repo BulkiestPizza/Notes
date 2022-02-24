@@ -31,3 +31,15 @@ These laws perpetrate the dis-empowerment of slaves because they actively encour
 
 ## Hammurabi Code Teeel
 The Hammurabi code perpetrates the disempowertment of slaves because 
+
+
+## Slavery in Ancient Egypt 
+ LI: Analyse sources from ancient Egypt to evaluate the use of slavery in their everyday lives 
+
+Egyptian Heirachy
+
+					Pharaoh
+					 Nobles
+		 Scribes and Craftsman
+	Farmers, Servents and Slaves
+	

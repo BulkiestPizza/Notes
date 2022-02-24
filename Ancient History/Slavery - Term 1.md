@@ -51,4 +51,6 @@ Source 1
 ---
 -> The house had either had the food and house looted and taken, or he is poor. 
 -> Their father passed away 
--> 
+
+## Source 2 
+-> this source explicitly states that he took captains and chieftans and branded them and thier families, making them slaves 

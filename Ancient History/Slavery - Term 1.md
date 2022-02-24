@@ -42,4 +42,11 @@ Egyptian Heirachy
 					 Nobles
 		 Scribes and Craftsman
 	Farmers, Servents and Slaves
-	
+
+Hem (Hm) generally traslated to 'slave'
+-> Less rights 
+-> tasks were to service.
+
+Source 1 
+---
+-> The house had either had the food and house looted and tak

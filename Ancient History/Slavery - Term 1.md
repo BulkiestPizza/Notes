@@ -49,4 +49,6 @@ Hem (Hm) generally traslated to 'slave'
 
 Source 1 
 ---
--> The house had either had the food and house looted and tak
+-> The house had either had the food and house looted and taken, or he is poor. 
+-> Their father passed away 
+-> 

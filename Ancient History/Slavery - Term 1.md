@@ -54,3 +54,6 @@ Source 1
 
 ## Source 2 
 -> this source explicitly states that he took captains and chieftans and branded them and thier families, making them slaves 
+
+## Source 3 & Source 4 
+Thte sources corroborate each other because they both state the people were taken and made into slaves. In Source 3 it states that the Captains of the Archers, presumably a military division of archers, and the chief men of the tribes of the defeated, with source 4 corroborating htis becuase it explicetly states that prisoners of war and tribiute were taken by the victors and probably made into slaves.   

@@ -83,3 +83,6 @@ Implicit
 
 The writer wrote the source because they need more men to plough the fields to grow food. 
 
+
+Slavery in Ancient 
+

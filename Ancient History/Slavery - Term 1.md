@@ -67,3 +67,19 @@ Domestic slaves were Egyptian and were generally people who intentionally sold t
 Children of slaves were passed on together with their parents 
 
 Egyptian believed that in the afterlife, your decisions, good and bad, affected how you were affected in the afterlife, leading to some to avoid abusing their slaves 
+
+Certain virtues were to be recited in the afterlife, for example, "I have not domineered over slaves, I have not vilified a slave to his master."
+
+## Source 8
+Explicit Meanings:
+- Two men escaped
+- They were beated 
+- They needed the slaves to plough the earth (grow food)
+- The writer is not the lord 
+Implicit
+- The slaves escaped because of the beatings 
+- They need slaves to grow food 
+- The writer is presumably a scribe, or skilled slave
+
+The writer wrote the source because they need more men to plough the fields to grow food. 
+

@@ -10,6 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Math/PSMT.md",
+<<<<<<< HEAD
             "mode": "source",
             "source": false
           }
@@ -22,6 +23,8 @@
           "type": "markdown",
           "state": {
             "file": "conflict-files-obsidian-git.md",
+=======
+>>>>>>> 362cf12ad60398b575c714ff699c3c36e3d7d387
             "mode": "source",
             "source": false
           }
@@ -113,6 +116,11 @@
   "active": "1aa73d51f170e1d9",
   "lastOpenFiles": [
     "Math/PSMT.md",
+<<<<<<< HEAD
+=======
+    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
+    "Math/2022/PSMT.md",
+>>>>>>> 362cf12ad60398b575c714ff699c3c36e3d7d387
     "conflict-files-obsidian-git.md",
     "Ancient History/Slavery - Term 1.md",
     "Engineering/Signficant Units.md",

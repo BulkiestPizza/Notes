@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6694b36664b390c5",
+        "id": "1aa73d51f170e1d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "6694b36664b390c5",
+  "active": "1aa73d51f170e1d9",
   "lastOpenFiles": [
     "Math/PSMT.md",
-    "Math/2022/PSMT.md",
-    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
-    "conflict-files-obsidian-git.md",
-    "Programming/Flutter Notes/Text Input.md",
+    "Ancient History/Slavery - Term 1.md",
+    "Engineering/Signficant Units.md",
     "Untitled.md",
+    "Engineering/Density.md",
+    "Programming/Flutter Notes/Text Input.md",
     "Programming/Flutter Notes/Navigation.md",
+    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
     "Japanese/Words and Phrases/アメよこ.md",
-    "Japanese/Conjugations of  ますverb.md",
-    "Japanese/Words and Phrases/ジェラート.md"
+    "Japanese/Conjugations of  ますverb.md"
   ]
 }

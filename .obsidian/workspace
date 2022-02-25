@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/PSMT.md",
+            "file": "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/PSMT.md",
+                "file": "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,9 @@
   },
   "active": "6694b36664b390c5",
   "lastOpenFiles": [
+    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
     "Math/PSMT.md",
     "Math/2022/PSMT.md",
-    "Programming/Various Issues i solved or searched/Git Authentication in Obsidian and linux in general.md",
     "conflict-files-obsidian-git.md",
     "Programming/Flutter Notes/Text Input.md",
     "Untitled.md",

@@ -52,8 +52,18 @@ Source 1
 -> The house had either had the food and house looted and taken, or he is poor. 
 -> Their father passed away 
 
+## Slaves from war
 ## Source 2 
 -> this source explicitly states that he took captains and chieftans and branded them and thier families, making them slaves 
 
 ## Source 3 & Source 4 
 Thte sources corroborate each other because they both state the people were taken and made into slaves. In Source 3 it states that the Captains of the Archers, presumably a military division of archers, and the chief men of the tribes of the defeated, with source 4 corroborating htis becuase it explicetly states that prisoners of war and tribiute were taken by the victors and probably made into slaves.   
+
+## Egyptian Slavery 
+
+There were two types of slaves, Domestic Slaves and Foreign Slaves,
+Domestic slaves were Egyptian and were generally people who intentionally sold themselves into slavery and treated well by their owners, while foreign slaves were people who were captured in war and sold by Merchants.
+
+Children of slaves were passed on together with their parents 
+
+Egyptian believed that in the afterlife, your decisions, good and bad, affected how you were affected in the afterlife, leading to some to avoid abusing their slaves 

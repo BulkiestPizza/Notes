@@ -91,3 +91,6 @@ Slavery in Ancient Egypt is drastically better for the slaves than in many other
 	1. Source 4 Describes the possesions of the house as 'Servants' potentially indicating that the slaves had general duties around the house
 2. Source 3 describes POWs branded and made into slaves potentially indicating that they can be forced into slavery 
 3. Source 7 describes that the slaves can become freed by visiting a temple and giving himself to the gods. 
+
+
+Slaves in Ancient Egypt could be obtained by various different ways. They can be obtained through a persons will, as an inheritance, 

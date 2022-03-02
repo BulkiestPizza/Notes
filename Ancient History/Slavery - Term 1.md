@@ -86,3 +86,8 @@ The writer wrote the source because they need more men to plough the fields to g
 
 Slavery in Ancient Egypt is drastically better for the slaves than in many other societies. This is becuase slaves were generally treated very well in comparison because of the egyptian belief that harming people, and slaves, would not allow you to dine with the gods. This is seen in source 2 "I am your servant...You will protect me, you will keep me safe, you will guard me..."(Peter Piccione, *The status of Women in Ancient Egyptian Society*) This quote proves that people are willing to be slaves, showing that they were treated quite well, and it wasn't looked down upon to be a slave. 
 
+## Questions 
+1. Who were Slaves
+	1. Source 4 Describes the possesions of the house as 'Servants' potentially indicating that the slaves had general duties around the house
+	2. Source 3 describes POWs branded and made into slaves potentially indicating that they can be forced into slavery 
+2. 

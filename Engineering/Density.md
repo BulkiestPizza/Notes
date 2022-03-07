@@ -30,7 +30,11 @@ Convert units to kg and M when working with density
     1610kg = m
 4. p = m/V
     8050 = m/0.2
-
+     m = $8050*0.2$
+     m = 1610
+5. p = m/V
+p = 0.078/0.000006
+p = 1300kg/m^3
 ## Cylinder Questions
 V = $(pi*0.008^2)*0.075$ 
 V = $(0.000064pi)*0.075$
@@ -74,3 +78,7 @@ $AS = 9.4*10^-4$
 
 $Sp= As/A$  
 $Sp = 
+
+0.078kg / 0.06m^3 = Density
+0.078kg / 6.0 × 10-5
+Density =

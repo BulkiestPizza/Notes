@@ -32,57 +32,6 @@ These laws perpetrate the dis-empowerment of slaves because they actively encour
 ## Hammurabi Code Teeel
 The Hammurabi code perpetrates the disempowertment of slaves because 
 
-
-## Slavery in Ancient Egypt 
- LI: Analyse sources from ancient Egypt to evaluate the use of slavery in their everyday lives 
-
-Egyptian Heirachy
-
-					Pharaoh
-					 Nobles
-		 Scribes and Craftsman
-	Farmers, Servents and Slaves
-
-Hem (Hm) generally traslated to 'slave'
--> Less rights 
--> tasks were to service.
-
-Source 1 
----
--> The house had either had the food and house looted and taken, or he is poor. 
--> Their father passed away 
-
-## Slaves from war
-## Source 2 
--> this source explicitly states that he took captains and chieftans and branded them and thier families, making them slaves 
-
-## Source 3 & Source 4 
-Thte sources corroborate each other because they both state the people were taken and made into slaves. In Source 3 it states that the Captains of the Archers, presumably a military division of archers, and the chief men of the tribes of the defeated, with source 4 corroborating htis becuase it explicetly states that prisoners of war and tribiute were taken by the victors and probably made into slaves.   
-
-## Egyptian Slavery 
-
-There were two types of slaves, Domestic Slaves and Foreign Slaves,
-Domestic slaves were Egyptian and were generally people who intentionally sold themselves into slavery and treated well by their owners, while foreign slaves were people who were captured in war and sold by Merchants.
-
-Children of slaves were passed on together with their parents 
-
-Egyptian believed that in the afterlife, your decisions, good and bad, affected how you were affected in the afterlife, leading to some to avoid abusing their slaves 
-
-Certain virtues were to be recited in the afterlife, for example, "I have not domineered over slaves, I have not vilified a slave to his master."
-
-## Source 8
-Explicit Meanings:
-- Two men escaped
-- They were beated 
-- They needed the slaves to plough the earth (grow food)
-- The writer is not the lord 
-Implicit
-- The slaves escaped because of the beatings 
-- They need slaves to grow food 
-- The writer is presumably a scribe, or skilled slave
-
-The writer wrote the source because they need more men to plough the fields to grow food. 
-
-
-Slavery in Ancient Egypt is drastically better for the slaves than in many other societies. This is becuase slaves were generally treated very well in comparison because of the egyptian belief that harming people, and slaves, would not allow you to dine with the gods. This is seen in source 2 "I am your servant...You will protect me, you will keep me safe, you will guard me..."(Peter Piccione, *The status of Women in Ancient Egyptian Society*) This quote proves that people are willing to be slaves, showing that they were treated quite well, and it wasn't looked down upon to be a slave. 
+# [Egyptian Slavery](obsidian://open?vault=Notes&file=Ancient%20History%2FEgyptian%20Slavery)
+# [Greek Slavery](obsidian://open?vault=Notes&file=Ancient%20History%2FGreek%20Slavery)
 

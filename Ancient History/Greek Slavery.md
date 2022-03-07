@@ -21,3 +21,7 @@ obsidian://open?vault=Notes&file=Ancient%20History%2FEgyptian%20Slavery07-03-202
 - Slaves were subject to the whims of their masters but could not be killed by them
 - Socrates listed punishment of slaves varied but torture was often used
 - They were an integral part of the family, and the master had absolute rights over the slave 
+## [Slaves in Sparta](obsidian://open?vault=Notes&file=Ancient%20History%2FSpartan%20Slaves)
+
+## Source Examination 
+Source 1: 

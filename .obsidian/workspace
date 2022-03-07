@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ancient History/Egyptian Slavery.md",
-            "mode": "preview",
+            "file": "Ancient History/Greek Slavery.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient History/Egyptian Slavery.md",
+                "file": "Ancient History/Greek Slavery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,10 @@
   },
   "active": "44f08491a1b61595",
   "lastOpenFiles": [
-    "Ancient History/Egyptian Slavery.md",
-    "Ancient History/Slavery - Term 1.md",
     "Ancient History/Greek Slavery.md",
+    "Ancient History/Spartan Slaves.md",
+    "Ancient History/Slavery - Term 1.md",
+    "Ancient History/Egyptian Slavery.md",
     "Japanese/Days.md",
     "Math/10November.md",
     "Math/11.F.md",

@@ -34,4 +34,10 @@ The Hammurabi code perpetrates the disempowertment of slaves because
 
 # [Egyptian Slavery](obsidian://open?vault=Notes&file=Ancient%20History%2FEgyptian%20Slavery)
 # [Greek Slavery](obsidian://open?vault=Notes&file=Ancient%20History%2FGreek%20Slavery)
-
+## Recap 
+1. explicit details are details that are right there in the text 
+2. implicit details are details that can be inferred from the text 
+3. motive the reason that the source was created, was it to serve an agenda, make someone look good and is important when analaysing sources to spot the biases in said sources 
+4. You can decide how reliable a source is by examining the biasies, when it was written/created, who made it. 
+5. Conclude/summarise the information in the sources 
+6. Slaves could be procured in a variety of ways such as; captured in war, bought into slavery inherited as part of a will or kidnapped 

@@ -81,4 +81,4 @@ $Sp =
 
 0.078kg / 0.06m^3 = Density
 0.078kg / 6.0 × 10-5
-Density =
+Density = 1300kg/m^3 

@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Big Sur Aesthetic"
+  "cssTheme": "Big Sur Aesthetic",
+  "theme": "obsidian"
 }

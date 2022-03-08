@@ -25,3 +25,8 @@ obsidian://open?vault=Notes&file=Ancient%20History%2FEgyptian%20Slavery07-03-202
 
 ## Source Examination 
 Source 1: 
+![[Pasted image 20220307142158.png]]
+The slaves did the same thing for most of their lives 
+
+Source 2:
+![[Pasted image 20220307142458.png]]

@@ -30,3 +30,5 @@ The slaves did the same thing for most of their lives
 
 Source 2:
 ![[Pasted image 20220307142458.png]]
+
+

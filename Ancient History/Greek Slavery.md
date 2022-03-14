@@ -1,5 +1,6 @@
 obsidian://open?vault=Notes&file=Ancient%20History%2FEgyptian%20Slavery07-03-2022 at 14:00
 
+
 ---
 # Greek Slavery
 ---

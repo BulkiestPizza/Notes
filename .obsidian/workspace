@@ -19,7 +19,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/Drawing 2022-03-14 10.05.09.excalidraw.md"
+            "file": "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw"
           }
         }
       },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-03-14 10.05.09.excalidraw.md",
+                "file": "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
   },
   "active": "73b61c6cae08bc2b",
   "lastOpenFiles": [
+    "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw",
     "Excalidraw/Drawing 2022-03-14 10.05.09.excalidraw.md",
     "Engineering/Vectors.md",
     "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.png",
@@ -152,7 +153,6 @@
     "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.excalidraw",
     "Excalidraw/Drawing 2022-03-14 09.56.17.excalidraw.md",
     "Excalidraw/Drawing 2022-03-14 09.53.58.excalidraw.md",
-    "Ancient History/Greek Slavery.md",
-    "Ancient History/Slavery - Term 1.md"
+    "Ancient History/Greek Slavery.md"
   ]
 }

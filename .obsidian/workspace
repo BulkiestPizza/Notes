@@ -17,9 +17,11 @@
         "id": "73b61c6cae08bc2b",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw"
+            "file": "Ancient History/Roman Slavery.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw",
+                "file": "Ancient History/Roman Slavery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +146,15 @@
   },
   "active": "73b61c6cae08bc2b",
   "lastOpenFiles": [
+    "Ancient History/Roman Slavery.md",
+    "Ancient History/Egyptian Slavery.md",
+    "Ancient History/Greek Slavery.md",
+    "Ancient History/Slavery - Term 1.md",
+    "Ancient History/Spartan Slaves.md",
     "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw",
     "Excalidraw/Drawing 2022-03-14 10.05.09.excalidraw.md",
     "Engineering/Vectors.md",
     "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.png",
-    "Excalidraw/Drawing 2022-03-14 10.03.40.excalidraw.md",
-    "Ancient History/Humanaties/All about maps.md",
-    "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.excalidraw",
-    "Excalidraw/Drawing 2022-03-14 09.56.17.excalidraw.md",
-    "Excalidraw/Drawing 2022-03-14 09.53.58.excalidraw.md",
-    "Ancient History/Greek Slavery.md"
+    "Excalidraw/Drawing 2022-03-14 10.03.40.excalidraw.md"
   ]
 }

@@ -47,3 +47,18 @@ Explicit:
 	-> 2 slaves serving someone
 	-> One slave is holding up a mirror for the person sitting on a type of throne 
 	-> Slaves have nice clothing
+	-> Person in centre is larger than the slaves. 
+Source 3:
+Mosaic of slaves pouring wine 
+Explicit: 
+	-> Slaves wearing barely any clothing 
+	-> Slaves appear large, athletic and healthy 
+	-> Slaves are pouring wine
+
+Source 4: 
+Fragment of a wall painting, Roman workers building a wall while slave master watches on 
+	-> Master is sitting down while slaves work 
+	-> Slaves aren't wearing much at all 
+	-> Slaves appear to lifting heavy objects 
+	-> Master is wearing a type of crown 
+	

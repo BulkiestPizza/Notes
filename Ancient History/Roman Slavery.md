@@ -61,4 +61,11 @@ Fragment of a wall painting, Roman workers building a wall while slave master wa
 	-> Slaves aren't wearing much at all 
 	-> Slaves appear to lifting heavy objects 
 	-> Master is wearing a type of crown 
+Source 5: 
+Seneca the Younger (c.50BC), Letters 47
+Explicit:
+	-> Slaves were punished if they spoke without permission 
+	->Slaves masters would eat too much 
+	-> Seneca believes that the treatment of slaves is cruel and inhuman
+	-> Slaves are made to clean up after dinner '
 	

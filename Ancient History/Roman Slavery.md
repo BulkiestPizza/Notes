@@ -34,3 +34,16 @@ Their were 5 main types of slaves:
 - Agricultural slaves
 - Mining and quarrying slaves
 - Public Slaves
+
+Source 1: 
+Pliny the elder - how gold is found 
+Explict:
+	-> Miners work underneath the mountains which often crack and crush the men underneath 
+	-> The earth is more dangerous to work on than the sea 
+	-> The workmen don't see daylight for many months 
+Source 2:
+Mosaic showing living conditions of household slaves
+Explicit:
+	-> 2 slaves serving someone
+	-> One slave is holding up a mirror for the person sitting on a type of throne 
+	-> Slaves have nice clothing

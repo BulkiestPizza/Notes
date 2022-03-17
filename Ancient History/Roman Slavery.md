@@ -75,4 +75,4 @@ Explicit:
 	->Slaves masters would eat too much 
 	-> Seneca believes that the treatment of slaves is cruel and inhuman
 	-> Slaves are made to clean up after dinner '
-	
+

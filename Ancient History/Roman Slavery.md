@@ -76,3 +76,6 @@ Explicit:
 	-> Seneca believes that the treatment of slaves is cruel and inhuman
 	-> Slaves are made to clean up after dinner '
 
+TEEEL Response 
+-. T = The evidence displays the roles and duties of Roman slaves as manual labourers and housekeepers
+

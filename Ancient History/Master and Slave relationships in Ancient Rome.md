@@ -20,4 +20,6 @@ Plutarch - Life of Crassus
 -> Slaves were kept in close quarters 
 
 1. Masters didn't value their slaves. The slaves also had no respect for their masters.
-2. The relationship between the masters and their slaves is quite volatile, 
+2. The relationship between the masters and their slaves is quite volatile, leading to rebellion
+3. Potentially cheaper to not feed their slaves, feel of control over others.
+4. Slaves valued their freedom, motivating them to revolt 

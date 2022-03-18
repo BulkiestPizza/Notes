@@ -14,3 +14,10 @@ Diodorus Siculus
 -> when slaves could meet they formed plans to push back and revolt against their masters 
 
 Plutarch - Life of Crassus
+-> most of Batiatus's slaves were Gauls and Thracians
+-> Slaves elected leaders 
+-> Lentulus Batiatus was a cruel owner 
+-> Slaves were kept in close quarters 
+
+1. Masters didn't value their slaves. The slaves also had no respect for their masters.
+2. The relationship between the masters and their slaves is quite volatile, 

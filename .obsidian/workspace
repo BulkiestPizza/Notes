@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ancient History/Roman Slavery.md",
+            "file": "Ancient History/Master and Slave relationships in Ancient Rome.md",
             "mode": "source",
             "source": false
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient History/Roman Slavery.md",
+                "file": "Ancient History/Master and Slave relationships in Ancient Rome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "73b61c6cae08bc2b",
   "lastOpenFiles": [
+    "Ancient History/Master and Slave relationships in Ancient Rome.md",
     "Ancient History/Roman Slavery.md",
     "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.png",
     "Ancient History/Egyptian Slavery.md",
@@ -154,7 +155,6 @@
     "Ancient History/Spartan Slaves.md",
     "Engineering/Drawing 2022-03-14 10.05.09.excalidraw.excalidraw",
     "Excalidraw/Drawing 2022-03-14 10.05.09.excalidraw.md",
-    "Engineering/Vectors.md",
-    "Excalidraw/Drawing 2022-03-14 10.03.40.excalidraw.md"
+    "Engineering/Vectors.md"
   ]
 }

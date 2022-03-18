@@ -79,3 +79,5 @@ Explicit:
 TEEEL Response 
 -. T = The evidence displays the roles and duties of Roman slaves as manual labourers and housekeepers
 
+
+## [[Master and Slave relationships in Ancient Rome]]

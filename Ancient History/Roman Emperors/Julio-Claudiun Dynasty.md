@@ -54,3 +54,20 @@
 - Supposedly fiddled Rome burned in a large fire 
 - Blamed the fire on the Christians and persecuted them
 - Committed suicide, had a companion stab him 
+
+#### Civil War
+- Four men: Galba, Otho, Vitellius and Vespasian all struggle for power
+
+#### Vespasian 
+- Eventually won control in the civil war and sonsolidated the Empire which had begun to fragment 
+- Granted citizenship to non-Italian 
+- Stabilized government spending 
+- Replenished the treasury
+- Built roads
+- Most famous for saching Jerusalem, destroying the Temple. and dispercing the Jews in 70 CE 
+#### Titus 
+- Son of Vespasian 
+- Known as "the light of the world"
+- Very Popular 
+- Ruled during the destruction of Pompeii 
+- Finished the construction of the Colosseum 

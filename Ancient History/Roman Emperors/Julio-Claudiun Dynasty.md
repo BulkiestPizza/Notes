@@ -18,4 +18,17 @@
 - He established the Praetorian Guard 
 - New administrative system for the large expanding empire 
 -  Continued granting citizenship to people in the provinces 
-- Introduced a more uniform tax sytem to promote equal and fair 
+- Introduced a more uniform tax sytem to promote equal and fair treatment of the provinces 
+- Established a civil service to enhance the working os the government 
+- Encouraged religion, using it to encourage the simple life and to strengthen morality which he felt was slipping 
+- Beautified Rome, "Found it in brick and left it in marble "
+
+#### Tiberius 
+- Stepson of Augustus 
+- Designated Augustus's successor when others died 
+- Morose and suspicious 
+- Unpopular because he spent little money on public games 
+- Good administrator and economist 
+- Became old and senile 
+- Smothered to death 
+

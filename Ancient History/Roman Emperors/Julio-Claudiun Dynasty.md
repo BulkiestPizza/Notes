@@ -32,3 +32,25 @@
 - Became old and senile 
 - Smothered to death 
 
+#### Caligula 
+- Unbalanced nephew of Tiberius 
+- Also unpopular 
+- Megalomaniac 
+- Tried to make his horse a senator 
+- Murdered by a member of the Praetorian Guard 
+#### Claudius 
+- Uncle of Caligula 
+- Ungainly, doltish appearance
+- An excellent organiser
+- Expanded the bureaucracy
+- Served poisoned mushrooms by his fourth wife 
+
+#### Nero
+- Son of Claudius 
+- Killed his own mother 
+- Considered a tyrant 
+- Ordered assassination of real and imagined 
+- Artist and poet 
+- Supposedly fiddled Rome burned in a large fire 
+- Blamed the fire on the Christians and persecuted them
+- Committed suicide, had a companion stab him 

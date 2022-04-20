@@ -14,50 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "73b61c6cae08bc2b",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "d24d27d453361ed5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Engineering/Vectors.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "44f08491a1b61595",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ancient History/Egyptian Slavery.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "511de000a637e526",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ancient History/Egyptian Slavery.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -145,6 +101,7 @@
   "active": "4a2a015855cb4626",
   "lastOpenFiles": [
     "Ancient History/Roman Emperors/Julio-Claudiun Dynasty.md",
+    "Japanese/Words and Phrases/ふしぎ.md",
     "Engineering/Drawing 2022-03-14 09.56.17.excalidraw.png",
     "Japanese/Words and Phrases/ジェットコースター.md",
     "Japanese/Words and Phrases/ご当地アイスパーラ.md",
@@ -152,7 +109,6 @@
     "Japanese/Words and Phrases/げんき.md",
     "Japanese/Words and Phrases/けいたいでんわ.md",
     "Japanese/Words and Phrases/きもちがいい.md",
-    "Japanese/Words and Phrases/ガラケー.md",
-    "Japanese/Words and Phrases/キッズコーナー.md"
+    "Japanese/Words and Phrases/ガラケー.md"
   ]
 }

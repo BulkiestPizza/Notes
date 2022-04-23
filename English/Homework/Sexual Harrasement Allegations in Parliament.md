@@ -10,7 +10,12 @@
 The Liberal Party's Junior staffer Brittany Higgins
 
 ## What
-She alleged that she had been raped late at night by an unnamed male colleague in Linda Reynolds office, she stated that she became intoxicated after a party and left with the colleague in a taxi, and was instead 
+She alleged that she had been raped late at night by an unnamed male colleague in Linda Reynolds office, she stated that she became intoxicated after a party and left with the colleague in a taxi, and was instead taken to parliament house and raped. She was found the next day "Disoriented and half naked in the office" (Paul Osborne, Victorharbortimes, 2021) 
+
+Linda Reynolds sacked the alleged assailant on 26 March 2019, under the guise of a "security breach", instead of the alleged criminal behaviour. Higgins accused Reynolds that she was just a "sudden problem for her" (Brittany Higgins, 2019) 
+
+Linda Reynolds also called Higgins to her office to discuss the incident, 
+
 
 
 

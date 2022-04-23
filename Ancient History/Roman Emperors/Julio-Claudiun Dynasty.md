@@ -71,3 +71,94 @@
 - Very Popular 
 - Ruled during the destruction of Pompeii 
 - Finished the construction of the Colosseum 
+
+#### Domitian
+- Brother of Titus
+- The "Holy Terror"
+- Murdered after 15 years by people in his own household 
+- Persecuted Jews and Christians
+- Otherwise governed well
+
+## The Five Good Emperors
+- After the death of Nero, the senate and army played a more active role in the selection of the emperors of rome 
+- Between 96 CE and 180 CE the Romans handled the problem by having each emperor select a younger colleague to train as a successor. 
+- Nerva, Trajan, Hardian, Antonius Pius, and Marcus Aurelius 
+- Resulted in almost a century of stability 
+
+#### Nerva (96 CE - 98 CE)
+- Older, gentler senator
+- Elected emperor by the Senate
+- Began tradition of the present ruler finding and adopting the "best man" and making him successor
+
+  #### Trajan (98CE - 117CE)
+  - First Roman emperor of non-Italian origin
+  - Great ruler
+  - Extended the Empire to its greatest extent 
+  - Kept the Senate informed about his campaigns, and waited for their approval before signing treaties 
+  - Popular with the public because he greatly increased Rome's wealth through military conquest 
+  - Also popular because spent large sums on building aqueducts, temples and public baths
+  - Also very popular with the army 
+
+#### Hadrian (117 CE- 138 CE)
+- brilliant nad versatile 
+- Excellent administrator and brave soldier 
+- Consolidated the Empire and build walls in Scotland and along the Rhine RIver to contain the Barbarians
+- Gifted architect 
+- Built the Pantheon 
+-
+### Antonius 
+- Just and honest 
+- Empire reached its peak under his guidance 
+- Ruled during years of tranquillity 
+- His death is associated by many with the end of the Pax Romana 
+
+#### Marcus Aurelius 
+- Rlued during times of trouble during which barbarians rose in many areas
+- Plague also killed 1/4 of the people in the Republic during his reign 
+- Stoic
+
+### Commodus 
+- Son of Marcus Aurelius
+- Unfit to rule, broke the tradition of "best man"
+- Fought in the gladiatorial contests
+- Poor ruler 
+- Strangled to death in his bath 
+
+### Late empire 
+- For the next 300 years the empire was in a slow decline 
+- After Commodus's death the throne was up for auction 
+- 192-193 several men tried to gain power by buying loyalty of different armies 
+
+#### Septimus Severus 
+- had the best army so he siezed power 
+- Catered to the army to hold power
+- Let the men go soft, allowed families to travel with them 
+- Admitted barbarians to the army 
+#### Carcalla
+- Son of septimus 
+- Brutal, who killed his brother to get the throne
+- Bribed barbarians to stay away from rome 
+- Taxes increarsed dramatically and currency lost its value
+
+#### Severus Alexander 
+- Continued bribing of barbarians
+
+### Military anarchy 
+- 100 claimants to the throne 
+- 26 took the throne for an average of 2 years
+- All of them met a violent end 
+- Valerian captured by the Persians and stuffed as a trophy 
+- Plagues and constant wars
+- Taxes skyrocketed
+- Citizens tried to give up a citizenship 
+- Back to barter economy because of inflation 
+
+#### Diocletian 
+- Restored some semlance of order 
+- Only empire to retire, in Yugoslavia 
+
+## Constantine the Great 
+- Ruled with 4 others
+- Ruled alone from 324 - 337
+- in 312 had a religius vision. seeing a cross and so became a Christian
+- Passed the Edict of Milan in 313 which granted religious toleration 

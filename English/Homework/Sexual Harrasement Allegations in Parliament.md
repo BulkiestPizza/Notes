@@ -14,8 +14,11 @@ She alleged that she had been raped late at night by an unnamed male colleague i
 
 Linda Reynolds sacked the alleged assailant on 26 March 2019, under the guise of a "security breach", instead of the alleged criminal behaviour. Higgins accused Reynolds that she was just a "sudden problem for her" (Brittany Higgins, 2019) 
 
-Linda Reynolds also called Higgins to her office to discuss the incident, 
+Linda Reynolds and several other politicians were also completely aware of what happened that night, however the incumbent Prime Minister was not informed by any of his colleagues about the incident until 15 February 2021, nearly 2 years after the incident. 
 
+The Morrison Administration was widely criticised by the public about the incident, it was also revealed that many other women in parliment had been raped by the same man, one was raped in 2020 after dinner and drinks, another alleged that she was sexually assaulted by the man in 2016 and another accused that the man had made "unwanted advances" in 2017, the accused was sacked from his job in 2021 which he had worked at since the incident and was admitted to hostpital
+
+Reynolds was pressured to stand down by Labor Senator Kristina Keneally saying "Is the Minister of defence, Linda Reynolds, trying to pretend she is (on one hand) well enough to continue as Defence Minister, but not well enough on the other to front up and answer to questions in parliament and the (Senate) estimates?" Because of her actions in the allegations by Higgins, she also called for another investigation against Christian Porter. 
 
 
 

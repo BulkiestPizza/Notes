@@ -5,6 +5,16 @@
 ---
 
 ## When 
+2019 
+## Who 
+The Liberal Party's Junior staffer Brittany Higgins
+
+## What
+She alleged that she had been raped late at night by an unnamed male colleague in Linda Reynolds office, she stated that she became intoxicated after a party and left with the colleague in a taxi, and was instead 
+
+
+
+## When 
 1988 - 2022
 
 ## Who 
@@ -22,12 +32,36 @@ on 15 March 2021 Christian Porter launched a defamation claim against the ABC an
 Porter was ordered to pay $430,200 because of a case presented by Jo Dyer, who was the confident of the alleged victim.
 
 --- 
+
 ## When 
 March 2021
 
 ## Who 
 Various members of the Labor Party of Australia 
+
 ## What
 Women were sharing stories of sexual harassment within the Labor Party, without sharing the names of the alleged harassers. 
 
 ---
+
+## When 
+28 February 2021 
+
+## Who
+Sarah Henderson said that a woman had sent an email alleging rape against one of the members of the Labor party
+
+## What 
+It was alleged that a man within the Labor Party had raped the anonymous woman
+
+Party leader Anthony Albanese said that the woman should come forward and "name names" a new code of conduct was also set up to investigate further allegations
+
+--- 
+
+## Results of the allegations
+The allegations, in addition to the Brittany Higgins incident, caused widespread discussion across the country over misgony and a toxic workplace culture,
+
+The Morrison Administration was widely criticised for these scandals, 
+
+The Liberal party of Australia's Former Prime Minister, Malcom Turnbull, accused the Morrison Government of taking too long to bring the issues to light. Julie Bishop also stated that the handling of sexual harassement issues was a problem for all parties in Parliament
+
+Various other issues surrounding the fallout of these rape allegations have also occured 

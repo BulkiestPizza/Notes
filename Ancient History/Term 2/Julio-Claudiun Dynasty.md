@@ -5,9 +5,9 @@
 ---
 
 
-### Ceasar Augustus
-- Nephew of Julius Ceasar, Formed a second triumvirate with Mark Antony --and Marcus Lepidus 
-- Defeated the assasins Brutus and Cassius 
+### Caesar Augustus
+- Nephew of Julius Caesar, Formed a second triumvirate with Mark Antony --and Marcus Lepidus 
+- Defeated the assassins Brutus and Cassius 
 - Alliance broke apart and Octavian would become Rome's first emperor 
 - He would be given the title "Augustus" or "highest one"
 #### His Reign

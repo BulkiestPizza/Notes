@@ -28,6 +28,7 @@ Explicit
 -> Sates that Agrippina "Procured the death of his brother Lucius Silanus"
 -> States that she killed Junius becasue she "feared him as a pooible avenger" of his brother Lucius
 
-The source also states that "it was a generally expressed opinion of the multitude[population]that Nero, barely emerged from boyhood" should not be the ruler 
+The source also states that "it was a generally expressed opinion of the multitude [population]that Nero, barely emerged from boyhood" should not be the ruler 
+
 
 

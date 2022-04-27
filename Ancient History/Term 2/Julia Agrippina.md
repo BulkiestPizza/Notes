@@ -23,12 +23,13 @@ She plotted against with her brother the Emperor Caligula who who allegedly slep
 Explicit
 -> "The first death under the new priincipate, that of Junius Silanus"
 -> Junius was "proconsul of Asia"
--> he was killed without "Nero's congnizance "
+-> he was killed without "Nero's congnisance "
 -> Tacitus explicitly states that he was killed "by treachery on the part of Agrippina"
 -> Sates that Agrippina "Procured the death of his brother Lucius Silanus"
--> States that she killed Junius becasue she "feared him as a pooible avenger" of his brother Lucius
+-> States that she killed Junius because she "feared him as a possible avenger" of his brother Lucius
 
 The source also states that "it was a generally expressed opinion of the multitude [population]that Nero, barely emerged from boyhood" should not be the ruler 
 
-
-
+Implicit 
+1. Agrippina killed Junius Silanus under Nero's reign 
+2. Nero Was unaware of his mothers power grpabs,

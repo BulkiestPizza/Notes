@@ -34,3 +34,12 @@ Implicit
 1. Agrippina killed Junius Silanus under Nero's reign 
 2. Nero Was unaware of his mothers power grabs, potentially hinting that she wants to overthrow him.
 3. Agrippina was paranoid and tactical because of the murder of Lucius Silanus 
+
+
+### Source 2 
+- Explicit Details
+	- Agrippina rushes to policies that are threataning and Terrorising people 
+	- Britannicus was now of age and was the rightful heir to his "father's power"
+	- Britannicu
+- Implicit Details
+	- 

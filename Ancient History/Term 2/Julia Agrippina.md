@@ -40,6 +40,10 @@ Implicit
 - Explicit Details
 	- Agrippina rushes to policies that are threataning and Terrorising people 
 	- Britannicus was now of age and was the rightful heir to his "father's power"
-	- Britannicu
+	- Britannicus is seen as a better candidate for roman emperor by the senate. 
 - Implicit Details
-	- 
+	- This implies that Agrippina has schemed to get her sone Nero in to power 
+
+
+## Cassius Dio
+

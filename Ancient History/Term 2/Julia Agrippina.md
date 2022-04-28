@@ -47,11 +47,20 @@ Implicit
 
 ## Cassius Dio
 Source 3
-- 	
+- Explicit Details	
 	- Agrippina "Was amassing untold wealth for [Nero]"
 	
 	- A severed head of a noble woman was brought to her and she was simply "Inspecting the teeth"
 	
 	- "Agrippina was training her son for the throne" 
 
-	
+- Implied meaning 
+	- This implies that Arippina was ruthless as the source descibes her actions as very casual.
+
+Source 4
+- Explicit Details
+	- She was more powerful than claudius
+	- She greeted herself instead of having Claudius introduce her 
+	- This was significant enough to be in the records
+- Implicit Details
+	- Agrippina greeting herself shows that she had lots of power in Rome, especially for a woman, espicially that it was entered in the historical records 

@@ -46,4 +46,12 @@ Implicit
 
 
 ## Cassius Dio
+Source 3
+- 	
+	- Agrippina "Was amassing untold wealth for [Nero]"
+	
+	- A severed head of a noble woman was brought to her and she was simply "Inspecting the teeth"
+	
+	- "Agrippina was training her son for the throne" 
 
+	

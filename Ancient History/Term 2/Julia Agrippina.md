@@ -64,3 +64,4 @@ Source 4
 	- This was significant enough to be in the records
 - Implicit Details
 	- Agrippina greeting herself shows that she had lots of power in Rome, especially for a woman, espicially that it was entered in the historical records 
+	- Implies that she manipulative and ambitious 

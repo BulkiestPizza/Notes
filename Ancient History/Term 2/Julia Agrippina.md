@@ -79,3 +79,4 @@ Nero had stains on his clothing after riding with his mother
  It implies that incestuous relationships 
 Source 7
 Caligula had incestuous relationships with his sisters, with his wife watching 
+It suggests that his sisters were slaves to his needs 

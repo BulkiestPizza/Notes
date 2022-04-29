@@ -65,3 +65,17 @@ Source 4
 - Implicit Details
 	- Agrippina greeting herself shows that she had lots of power in Rome, especially for a woman, espicially that it was entered in the historical records 
 	- Implies that she manipulative and ambitious 
+
+
+## Suetonius
+Source 5
+Nero's father said that "nothing that was not abominable and a public bane could be born of Agrippina and himself."
+This implies that people saw Nero as a bad sign even before his birth  
+
+Source 6
+it was said that Nero had an incestuous relationships with his mother 
+
+Nero had stains on his clothing after riding with his mother 
+
+Caligula had incestuous relationships with his sisters, with his wife watching 
+]

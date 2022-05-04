@@ -81,4 +81,4 @@ Source 7
 Caligula had incestuous relationships with his sisters, with his wife watching 
 It suggests that his sisters were slaves to his needs 
 
-
+According to https://www.worldhistory.org/Agrippina_the_Younger/ The claim that Caligula "...lived in habitual incest with all his sisters, and at a large banquet he placed each of them in turn below him, while his wife reclined above'" is most likely a fabrication
